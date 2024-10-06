@@ -1,4 +1,4 @@
-![logo](https://github.com/SHUBHAMSHARMA-99/ShubhamSharma-99/blob/main/data%20png)
+![bordered_animated_image](https://github.com/user-attachments/assets/7f13ea8a-953d-4d9b-b6d2-94707ad7ea8f)
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
