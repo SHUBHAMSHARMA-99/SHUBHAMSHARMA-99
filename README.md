@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.prod.website-files.com/5c19020c997c25514d17d86f/614b7e249dbe1c69fad3a0f5_Analytics.gif">
 
-- 🌱 I’m currently learning **SQL,PYTHON**
+- 🌱 I’m currently learning **MY SQL,PYTHON**
  
 - 📫 How to reach me **sunnysharma2669@gmail.com**
 
